@@ -41,8 +41,8 @@ public class SecurityConfig {
                 .build();
 
         UserDetails admin = User.withUsername("admin")
-                .password("{noop}adminopass")
-                .roles("ADMIN, USER")
+                .password("{noop}adminpass")
+                .roles("ADMIN", "USER")
                 .build();
 
         return new InMemoryUserDetailsManager(user, admin);

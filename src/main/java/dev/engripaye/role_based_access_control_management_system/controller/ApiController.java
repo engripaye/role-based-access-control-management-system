@@ -15,7 +15,7 @@ public class ApiController {
         return "Hello, this is a public endpoint!";
     }
 
-    @GetMapping("user/greeting")
+    @GetMapping("/user/greeting")
     @PreAuthorize("hasRole('USER')")
     public String userGreeting(){
 
@@ -23,7 +23,7 @@ public class ApiController {
 
     }
 
-    @GetMapping("admin/greeting")
+    @GetMapping("/admin/dashboard")
     @PreAuthorize("hasRole('ADMIN')")
     public String adminGreeting(){
         return "Welcome to the Admin Dashboard";
