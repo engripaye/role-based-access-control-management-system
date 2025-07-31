@@ -12,7 +12,7 @@ public class ApiController {
     @GetMapping("/public/hello")
     public String publicHello(){
 
-        return "Hello, User!";
+        return "Hello, this is a public endpoint!";
     }
 
     @GetMapping("user/greeting")
