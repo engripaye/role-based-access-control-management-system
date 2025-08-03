@@ -1,9 +1,5 @@
 # ROLE-BASED-ACCESS-CONTROL-MANAGEMENT-SYSTEM
 
-🧑‍💻 Author
-GitHub: @engripaye
-LinkedIn: https://www.linkedin.com/in/engripayebabatunde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
 <img width="1024" height="1024" alt="Sistema de Control de Acceso por Roles" src="https://github.com/user-attachments/assets/11277c40-7018-495c-9fac-564e4abe379d" />
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen)](https://spring.io/projects/spring-boot)
@@ -100,4 +96,7 @@ Run mvn spring-boot:run.
 Test endpoints using cURL, Postman, or a browser.
 Extend with OAuth2 or a database as needed.
 
-If you have specific requirements (e.g., database integration, specific OAuth2 provider), let me know, and I can provide tailored code and explanations!
+🧑‍💻 Author
+GitHub: @engripaye
+LinkedIn: https://www.linkedin.com/in/engripayebabatunde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
