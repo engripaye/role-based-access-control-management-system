@@ -1,13 +1,8 @@
 # ROLE-BASED-ACCESS-CONTROL-MANAGEMENT-SYSTEM
 
 🧑‍💻 Author
-Your Name
 GitHub: @engripaye
 LinkedIn: https://www.linkedin.com/in/engripayebabatunde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
-📄 License
-This project is licensed under the MIT License.
-
 
 <img width="1024" height="1024" alt="Sistema de Control de Acceso por Roles" src="https://github.com/user-attachments/assets/11277c40-7018-495c-9fac-564e4abe379d" />
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
