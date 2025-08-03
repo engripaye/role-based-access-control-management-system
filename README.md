@@ -85,3 +85,14 @@ spring:
 jwt:
   secret: your-secret-key
   expiration: 3600000
+
+## Conclusion
+This project demonstrates a complete RBAC system using Java 21 and Spring Boot 3.5. It uses Spring Security to enforce role-based access with @PreAuthorize and supports both HTTP Basic and OAuth2 authentication. The application is extensible for production use with databases, external OAuth2 providers, and fine-grained permissions.
+To run the project:
+
+Clone the code from the structure above.
+Run mvn spring-boot:run.
+Test endpoints using cURL, Postman, or a browser.
+Extend with OAuth2 or a database as needed.
+
+If you have specific requirements (e.g., database integration, specific OAuth2 provider), let me know, and I can provide tailored code and explanations!
